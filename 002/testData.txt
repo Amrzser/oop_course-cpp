@@ -1,0 +1,8 @@
+zpc
+math 90 oop 100 c 99 english 85 0 0
+lc
+math 85 oop 85 english 90 0 0
+gx
+math 95 oop 80 java 85 0 0
+quit
+
